@@ -54,7 +54,7 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 <!-- .slide -->
 
-![img](https://image.jiqizhixin.com/uploads/editor/20b3b2e6-4e04-42a6-a376-0e438e2c17ae/1536577470769.png)
+![1536577470769.png](https://i.loli.net/2021/01/04/Db53gxhYMXVNwrn.png)
 
 「model overview graph」展示了 GAN 的架构、主要组件及其连接方式，另外还可视化了这些组件生成的结果。
 
@@ -64,7 +64,7 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 随着训练的进行，假样本的位置会不断更新。
 
-![img](https://image.jiqizhixin.com/uploads/editor/6b218984-9ce5-4dfc-aba6-8c93b2401939/02.gif)
+![02.gif](https://i.loli.net/2021/01/04/UIDwBAo9L8elmCN.gif)
 
 
 
@@ -76,7 +76,8 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 <!-- .slide -->
 
-![image-20210104204440870.png](https://i.loli.net/2021/01/04/OHkbaN2wytMj3E9.png)
+
+![1536577470885.png](https://i.loli.net/2021/01/04/T1CS5IzZdbGsiVf.png)
 
 鉴别器的性能可以通过2Dheatmap解释。
 
