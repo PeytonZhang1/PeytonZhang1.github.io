@@ -16,12 +16,11 @@
 ![image-20210104202804015.png](https://i.loli.net/2021/01/04/xp21Sz75EeCXtIB.png)
 
 使用TensorFlow.js加载了一个10层的预训练模型
-
 交互方面使用 Svelte 作为框架并使用 D3.js 进行可视化
 
 <!-- .slide -->
 
-![image-20210104202946681](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104202946681.png)
+![image-20210104202946681.png](https://i.loli.net/2021/01/04/6CPhjoYFzyW1qvJ.png)
 
 TensorFlow.js是一个开源的基于硬件加速的JavaScript库，用于训练和部署机器学习模型。TensorFlow.js 可以为你提供高性能的、易于使用的机器学习构建模块，允许你在浏览器上训练模型，或以推断模式运行预训练的模型。
 
@@ -33,7 +32,7 @@ D3 是最流行的可视化库之一，它被很多其他的表格插件所使�
 
 <!-- .slide -->
 
-![image-20210104203733483](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104203733483.png)
+![image-20210104203733483.png](https://i.loli.net/2021/01/04/Xs9qhRBS4eOWDwL.png)
 
 [CNN Explainer](https://poloclub.github.io/cnn-explainer/)  
 
@@ -43,13 +42,13 @@ D3 是最流行的可视化库之一，它被很多其他的表格插件所使�
 
 GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
-![image-20210104204126701](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104204126701.png)
+![image-20210104204126701.png](https://i.loli.net/2021/01/04/LiyEVacTHe5USdw.png)
 
 可视化 2D (x,y) 空间的概率分布比可视化高维空间的概率分布要简单得多。
 
 <!-- .slide -->
 
-![image-20210104204212834](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104204212834.png)
+![image-20210104204212834.png](https://i.loli.net/2021/01/04/qnXw3eJbkVhzl74.png)
 
 网站提供四种数据分布类型，也可以自定义自己的数据分布，可以使用预训练模型。
 
@@ -77,7 +76,7 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 <!-- .slide -->
 
-![image-20210104204440870](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104204440870.png)
+![image-20210104204440870.png](https://i.loli.net/2021/01/04/OHkbaN2wytMj3E9.png)
 
 鉴别器的性能可以通过2Dheatmap解释。
 
