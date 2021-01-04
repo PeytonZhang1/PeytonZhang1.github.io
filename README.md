@@ -13,7 +13,7 @@
 
 ## Part a      CNN Explainer
 
-![image-20210104202804015](https://github.com/PeytonZhang1/Data_Visualization/blob/master/image-20210104202804015.png)
+![image-20210104202804015.png](https://i.loli.net/2021/01/04/xp21Sz75EeCXtIB.png)
 
 使用TensorFlow.js加载了一个10层的预训练模型
 
